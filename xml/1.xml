@@ -1,0 +1,91 @@
+<Spele Laiks="2014/01/11" Vieta="Coca-cola Plaza" Skatitaji="5292">
+    <VT Vards="Fredis" Uzvards="Fvilpe"/>
+    <T Vards="Rihards" Uzvards="Rausis"/>
+    <T Vards="Pedro" Uzvards="Prompa"/>
+    <Komanda Nosaukums="Skolmeistari">
+        <Speletaji>
+            <Speletajs Nr="9" Vards="Nils" Uzvards="Debess" Loma="A"/>
+            <Speletajs Nr="21" Vards="Vilhelms" Uzvards="Zibens" Loma="A"/>
+            <Speletajs Nr="22" Vards="Vidmants" Uzvards="Rausis" Loma="V"/>
+            <Speletajs Nr="25" Vards="Janka" Uzvards="Zibens" Loma="A"/>
+            <Speletajs Nr="28" Vards="Rihards" Uzvards="Palodze" Loma="U"/>
+            <Speletajs Nr="30" Vards="Ciltvairis" Uzvards="Paraugs" Loma="A"/>
+            <Speletajs Nr="33" Vards="Bo" Uzvards="Antena" Loma="A"/>
+            <Speletajs Nr="34" Vards="Linards" Uzvards="Grants" Loma="U"/>
+            <Speletajs Nr="36" Vards="Francis" Uzvards="Rokturis" Loma="U"/>
+            <Speletajs Nr="39" Vards="Einars" Uzvards="Svilpe" Loma="A"/>
+            <Speletajs Nr="41" Vards="Anderss" Uzvards="Zirnis" Loma="V"/>
+            <Speletajs Nr="44" Vards="Rolands" Uzvards="Kompass" Loma="A"/>
+            <Speletajs Nr="47" Vards="Kens" Uzvards="Kabacis" Loma="U"/>
+        </Speletaji>
+        <Pamatsastavs>
+            <Speletajs Nr="9"/>
+            <Speletajs Nr="21"/>
+            <Speletajs Nr="22"/>
+            <Speletajs Nr="25"/>
+            <Speletajs Nr="28"/>
+            <Speletajs Nr="30"/>
+            <Speletajs Nr="33"/>
+            <Speletajs Nr="34"/>
+            <Speletajs Nr="36"/>
+            <Speletajs Nr="39"/>
+            <Speletajs Nr="44"/>
+        </Pamatsastavs>
+        <Varti>
+            <VG Laiks="24:58" Nr="9" Sitiens="J"></VG>
+        </Varti>
+        <Sodi>
+            <Sods Laiks="03:50" Nr="21"/>
+            <Sods Laiks="28:38" Nr="9"/>
+            <Sods Laiks="14:20" Nr="30"/>
+            <Sods Laiks="38:43" Nr="47"/>
+            <Sods Laiks="65:02" Nr="34"/>
+        </Sodi>
+        <Mainas>
+            <Maina Laiks="29:25" Nr1="9" Nr2="47"/>
+            <Maina Laiks="50:30" Nr1="22" Nr2="41"/>
+        </Mainas>
+    </Komanda>
+    <Komanda Nosaukums="Veiklie">
+        <Speletaji>
+            <Speletajs Nr="11" Vards="Saulvedis" Uzvards="Pitagors" Loma="U"/>
+            <Speletajs Nr="13" Vards="Janka" Uzvards="Svilpe" Loma="A"/>
+            <Speletajs Nr="16" Vards="Harijs" Uzvards="Rums" Loma="A"/>
+            <Speletajs Nr="18" Vards="Ciltvairis" Uzvards="Eholots" Loma="A"/>
+            <Speletajs Nr="27" Vards="Gints" Uzvards="Pitagors" Loma="V"/>
+            <Speletajs Nr="29" Vards="Vilhelms" Uzvards="Zemene" Loma="U"/>
+            <Speletajs Nr="36" Vards="Tims" Uzvards="Pipars" Loma="U"/>
+            <Speletajs Nr="38" Vards="Ciltvairis" Uzvards="Paraugs" Loma="U"/>
+            <Speletajs Nr="40" Vards="Saulvedis" Uzvards="Draugs" Loma="A"/>
+            <Speletajs Nr="43" Vards="Almonds" Uzvards="Kompass" Loma="U"/>
+            <Speletajs Nr="52" Vards="Saulvedis" Uzvards="Pudele" Loma="U"/>
+            <Speletajs Nr="55" Vards="Saulvedis" Uzvards="Jumts" Loma="U"/>
+            <Speletajs Nr="58" Vards="Vidmants" Uzvards="Rums" Loma="U"/>
+            <Speletajs Nr="63" Vards="Valters" Uzvards="Zilonis" Loma="A"/>
+            <Speletajs Nr="66" Vards="Armands" Uzvards="Skuja" Loma="U"/>
+            <Speletajs Nr="71" Vards="Igors" Uzvards="Rokturis" Loma="V"/>
+        </Speletaji>
+        <Pamatsastavs>
+            <Speletajs Nr="11"/>
+            <Speletajs Nr="13"/>
+            <Speletajs Nr="16"/>
+            <Speletajs Nr="18"/>
+            <Speletajs Nr="27"/>
+            <Speletajs Nr="66"/>
+            <Speletajs Nr="63"/>
+            <Speletajs Nr="58"/>
+            <Speletajs Nr="55"/>
+            <Speletajs Nr="52"/>
+            <Speletajs Nr="43"/>
+        </Pamatsastavs>
+        <Varti>
+            <VG Laiks="00:14" Nr="16" Sitiens="N">
+                <P Nr="66"/>
+            </VG>
+            <VG Laiks="45:20" Nr="43" Sitiens="N">
+                <P Nr="16"/>
+                <P Nr="66"/>
+            </VG>
+        </Varti>
+    </Komanda>
+</Spele>

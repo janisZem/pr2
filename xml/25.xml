@@ -1,0 +1,93 @@
+<Spele Laiks="2014/08/19" Vieta="Luzhniki" Skatitaji="10000">
+    <VT Vards="Andris" Uzvards="Berzins"/>
+    <T Vards="Ivan" Uzvards="Ivanov"/>
+    <T Vards="Roberto" Uzvards="Bergley"/>
+    <Komanda Nosaukums="ABC">
+        <Speletaji>
+            <Speletajs Nr="1" Vards="Maksim" Uzvards="Selivonchik" Loma="V"/>
+            <Speletajs Nr="2" Vards="Aleksej" Uzvards="Vasiljev" Loma="V"/>
+            <Speletajs Nr="3" Vards="Vadim" Uzvards="Naumec" Loma="U"/>
+            <Speletajs Nr="4" Vards="Igor" Uzvards="Melnichuk" Loma="U"/>
+            <Speletajs Nr="5" Vards="Manuel" Uzvards="Nordzhera" Loma="A"/>
+            <Speletajs Nr="6" Vards="Branislav" Uzvards="Ivanovich" Loma="A"/>
+            <Speletajs Nr="7" Vards="Ivan" Uzvards="Nosikov" Loma="U"/>
+            <Speletajs Nr="8" Vards="Vladimir" Uzvards="Afanasjev" Loma="A"/>
+            <Speletajs Nr="9" Vards="Andris" Uzvards="Micitis" Loma="U"/>
+            <Speletajs Nr="10" Vards="Andrej" Uzvards="Lebedev" Loma="A"/>
+            <Speletajs Nr="11" Vards="Vitalij" Uzvards="Parmalis" Loma="A"/>
+            <Speletajs Nr="12" Vards="Maksim" Uzvards="Parmalis" Loma="A"/>
+            <Speletajs Nr="13" Vards="Andrej" Uzvards="Grishaev" Loma="U"/>
+            <Speletajs Nr="14" Vards="Andrej" Uzvards="Miller" Loma="U"/>
+            <Speletajs Nr="15" Vards="Artur" Uzvards="Maksimov" Loma="A"/>
+            <Speletajs Nr="16" Vards="Sergej" Uzvards="Kirienkov" Loma="U"/>
+        </Speletaji>
+        <Pamatsastavs>
+            <Speletajs Nr="1"/>
+            <Speletajs Nr="3"/>
+            <Speletajs Nr="4"/>
+            <Speletajs Nr="5"/>
+            <Speletajs Nr="6"/>
+            <Speletajs Nr="7"/>
+            <Speletajs Nr="8"/>
+            <Speletajs Nr="9"/>
+            <Speletajs Nr="10"/>
+            <Speletajs Nr="11"/>
+            <Speletajs Nr="12"/>
+        </Pamatsastavs>
+        <Varti>
+            <VG Laiks="11:59" Nr="7" Sitiens="N"></VG>
+        </Varti>
+        <Sodi>
+            <Sods Laiks="22:53" Nr="7"/>
+            <Sods Laiks="53:28" Nr="4"/>
+            <Sods Laiks="76:11" Nr="7"/>
+        </Sodi>
+        <Mainas>
+            <Maina Laiks="77:12" Nr1="4" Nr2="14"/>
+        </Mainas>
+    </Komanda>
+    <Komanda Nosaukums="GGG">
+        <Speletaji>
+            <Speletajs Nr="11" Vards="Matthew" Uzvards="Stafford" Loma="U"/>
+            <Speletajs Nr="13" Vards="Daunte" Uzvards="Culpepper" Loma="U"/>
+            <Speletajs Nr="14" Vards="Drew" Uzvards="Stanton" Loma="U"/>
+            <Speletajs Nr="15" Vards="Kevin" Uzvards="Smith" Loma="A"/>
+            <Speletajs Nr="18" Vards="Marcedes" Uzvards="Lewis" Loma="A"/>
+            <Speletajs Nr="20" Vards="Mauris" Uzvards="Morris" Loma="A"/>
+            <Speletajs Nr="23" Vards="Aaron" Uzvards="Brown" Loma="U"/>
+            <Speletajs Nr="24" Vards="Jerome" Uzvards="Felton" Loma="U"/>
+            <Speletajs Nr="25" Vards="Jarett" Uzvards="Dillard" Loma="U"/>
+            <Speletajs Nr="29" Vards="Calvin" Uzvards="Johnson" Loma="A"/>
+            <Speletajs Nr="31" Vards="Derrick" Uzvards="Williams" Loma="V"/>
+            <Speletajs Nr="32" Vards="Brandon" Uzvards="Williamson" Loma="A"/>
+            <Speletajs Nr="35" Vards="Brandon" Uzvards="Pettigrew" Loma="U"/>
+            <Speletajs Nr="36" Vards="Will" Uzvards="Heller" Loma="U"/>
+            <Speletajs Nr="37" Vards="Casey" Uzvards="Fitzsimmons" Loma="V"/>
+            <Speletajs Nr="41" Vards="Jake" Uzvards="Nordin" Loma="U"/>
+        </Speletaji>
+        <Pamatsastavs>
+            <Speletajs Nr="11"/>
+            <Speletajs Nr="13"/>
+            <Speletajs Nr="14"/>
+            <Speletajs Nr="15"/>
+            <Speletajs Nr="18"/>
+            <Speletajs Nr="20"/>
+            <Speletajs Nr="25"/>
+            <Speletajs Nr="29"/>
+            <Speletajs Nr="32"/>
+            <Speletajs Nr="35"/>
+            <Speletajs Nr="37"/>
+        </Pamatsastavs>
+        <Varti>
+            <VG Laiks="13:59" Nr="13" Sitiens="N"></VG>
+            <VG Laiks="88:47" Nr="35" Sitiens="J"></VG>
+        </Varti>
+        <Sodi>
+            <Sods Laiks="66:06" Nr="15"/>
+            <Sods Laiks="86:16" Nr="41"/>
+        </Sodi>
+        <Mainas>
+            <Maina Laiks="67:32" Nr1="15" Nr2="41"/>
+        </Mainas>
+    </Komanda>
+</Spele>

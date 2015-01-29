@@ -1,0 +1,97 @@
+<Spele Laiks="2014/07/20" Vieta="Luzhniki" Skatitaji="13543">
+    <VT Vards="Ivan" Uzvards="Ivanov"/>
+    <T Vards="Petr" Uzvards="Sidorov"/>
+    <T Vards="George" Uzvards="Freeman"/>
+    <Komanda Nosaukums="GGG">
+        <Speletaji>
+            <Speletajs Nr="11" Vards="Matthew" Uzvards="Stafford" Loma="U"/>
+            <Speletajs Nr="13" Vards="Daunte" Uzvards="Culpepper" Loma="U"/>
+            <Speletajs Nr="14" Vards="Drew" Uzvards="Stanton" Loma="U"/>
+            <Speletajs Nr="15" Vards="Kevin" Uzvards="Smith" Loma="A"/>
+            <Speletajs Nr="18" Vards="Marcedes" Uzvards="Lewis" Loma="A"/>
+            <Speletajs Nr="20" Vards="Mauris" Uzvards="Morris" Loma="A"/>
+            <Speletajs Nr="23" Vards="Aaron" Uzvards="Brown" Loma="U"/>
+            <Speletajs Nr="24" Vards="Jerome" Uzvards="Felton" Loma="U"/>
+            <Speletajs Nr="25" Vards="Jarett" Uzvards="Dillard" Loma="U"/>
+            <Speletajs Nr="29" Vards="Calvin" Uzvards="Johnson" Loma="A"/>
+            <Speletajs Nr="31" Vards="Derrick" Uzvards="Williams" Loma="V"/>
+            <Speletajs Nr="32" Vards="Brandon" Uzvards="Williamson" Loma="A"/>
+            <Speletajs Nr="35" Vards="Brandon" Uzvards="Pettigrew" Loma="U"/>
+            <Speletajs Nr="36" Vards="Will" Uzvards="Heller" Loma="U"/>
+            <Speletajs Nr="37" Vards="Casey" Uzvards="Fitzsimmons" Loma="V"/>
+            <Speletajs Nr="41" Vards="Jake" Uzvards="Nordin" Loma="U"/>
+        </Speletaji>
+        <Pamatsastavs>
+            <Speletajs Nr="11"/>
+            <Speletajs Nr="13"/>
+            <Speletajs Nr="14"/>
+            <Speletajs Nr="15"/>
+            <Speletajs Nr="18"/>
+            <Speletajs Nr="20"/>
+            <Speletajs Nr="25"/>
+            <Speletajs Nr="29"/>
+            <Speletajs Nr="31"/>
+            <Speletajs Nr="32"/>
+            <Speletajs Nr="35"/>
+        </Pamatsastavs>
+        <Varti>
+            <VG Laiks="11:11" Nr="11" Sitiens="N">
+                <P Nr="18"/>
+            </VG>
+        </Varti>
+        <Sodi>
+            <Sods Laiks="04:03" Nr="11"/>
+        </Sodi>
+        <Mainas>
+            <Maina Laiks="15:55" Nr1="18" Nr2="41"/>
+        </Mainas>
+    </Komanda>
+    <Komanda Nosaukums="XYZ">
+        <Speletaji>
+            <Speletajs Nr="8" Vards="Jake" Uzvards="Delhomme" Loma="A"/>
+            <Speletajs Nr="9" Vards="Matt" Uzvards="Moore" Loma="U"/>
+            <Speletajs Nr="10" Vards="Josh" Uzvards="McCown" Loma="V"/>
+            <Speletajs Nr="12" Vards="Angelo" Uzvards="Williams" Loma="A"/>
+            <Speletajs Nr="14" Vards="Jonathan" Uzvards="Stewart" Loma="A"/>
+            <Speletajs Nr="21" Vards="Branislav" Uzvards="Ivanovich" Loma="A"/>
+            <Speletajs Nr="24" Vards="Jarett" Uzvards="Dillard" Loma="U"/>
+            <Speletajs Nr="26" Vards="Jerome" Uzvards="Felton" Loma="A"/>
+            <Speletajs Nr="33" Vards="Jarett" Uzvards="Dillard" Loma="U"/>
+            <Speletajs Nr="44" Vards="Mike" Uzvards="Senderos" Loma="A"/>
+            <Speletajs Nr="45" Vards="Vito" Uzvards="Mannone" Loma="A"/>
+            <Speletajs Nr="47" Vards="Tyrell" Uzvards="Sutton" Loma="A"/>
+            <Speletajs Nr="49" Vards="Mike" Uzvards="Goodson" Loma="V"/>
+            <Speletajs Nr="51" Vards="Steve" Uzvards="Smith" Loma="U"/>
+            <Speletajs Nr="58" Vards="Muhsin" Uzvards="Muhammad" Loma="A"/>
+            <Speletajs Nr="63" Vards="Kenny" Uzvards="Moore" Loma="U"/>
+        </Speletaji>
+        <Pamatsastavs>
+            <Speletajs Nr="8"/>
+            <Speletajs Nr="9"/>
+            <Speletajs Nr="10"/>
+            <Speletajs Nr="12"/>
+            <Speletajs Nr="14"/>
+            <Speletajs Nr="21"/>
+            <Speletajs Nr="24"/>
+            <Speletajs Nr="26"/>
+            <Speletajs Nr="33"/>
+            <Speletajs Nr="44"/>
+            <Speletajs Nr="45"/>
+        </Pamatsastavs>
+        <Varti>
+            <VG Laiks="12:55" Nr="8" Sitiens="N">
+                <P Nr="45"/>
+            </VG>
+            <VG Laiks="83:25" Nr="44" Sitiens="N">
+                <P Nr="12"/>
+            </VG>
+        </Varti>
+        <Sodi>
+            <Sods Laiks="75:09" Nr="8"/>
+            <Sods Laiks="80:13" Nr="8"/>
+        </Sodi>
+        <Mainas>
+            <Maina Laiks="15:12" Nr1="26" Nr2="63"/>
+        </Mainas>
+    </Komanda>
+</Spele>

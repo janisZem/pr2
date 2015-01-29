@@ -1,0 +1,77 @@
+<Spele Laiks="2014/09/01" Vieta="Toronto Stadium" Skatitaji="8985">
+    <VT Vards="Tom" Uzvards="Johnson"/>
+    <T Vards="Vasilij" Uzvards="Ivanov"/>
+    <T Vards="Maris" Uzvards="Onka"/>
+    <Komanda Nosaukums="XYZ">
+        <Speletaji>
+            <Speletajs Nr="8" Vards="Jake" Uzvards="Delhomme" Loma="A"/>
+            <Speletajs Nr="9" Vards="Matt" Uzvards="Moore" Loma="U"/>
+            <Speletajs Nr="10" Vards="Josh" Uzvards="McCown" Loma="V"/>
+            <Speletajs Nr="12" Vards="Angelo" Uzvards="Williams" Loma="A"/>
+            <Speletajs Nr="14" Vards="Jonathan" Uzvards="Stewart" Loma="A"/>
+            <Speletajs Nr="21" Vards="Branislav" Uzvards="Ivanovich" Loma="A"/>
+            <Speletajs Nr="24" Vards="Jarett" Uzvards="Dillard" Loma="U"/>
+            <Speletajs Nr="26" Vards="Jerome" Uzvards="Felton" Loma="A"/>
+            <Speletajs Nr="33" Vards="Jarett" Uzvards="Dillard" Loma="U"/>
+            <Speletajs Nr="44" Vards="Mike" Uzvards="Senderos" Loma="A"/>
+            <Speletajs Nr="45" Vards="Vito" Uzvards="Mannone" Loma="A"/>
+            <Speletajs Nr="47" Vards="Tyrell" Uzvards="Sutton" Loma="A"/>
+            <Speletajs Nr="49" Vards="Mike" Uzvards="Goodson" Loma="V"/>
+            <Speletajs Nr="51" Vards="Steve" Uzvards="Smith" Loma="U"/>
+            <Speletajs Nr="58" Vards="Muhsin" Uzvards="Muhammad" Loma="A"/>
+            <Speletajs Nr="63" Vards="Kenny" Uzvards="Moore" Loma="U"/>
+        </Speletaji>
+        <Pamatsastavs>
+            <Speletajs Nr="8"/>
+            <Speletajs Nr="9"/>
+            <Speletajs Nr="12"/>
+            <Speletajs Nr="14"/>
+            <Speletajs Nr="21"/>
+            <Speletajs Nr="24"/>
+            <Speletajs Nr="26"/>
+            <Speletajs Nr="33"/>
+            <Speletajs Nr="44"/>
+            <Speletajs Nr="47"/>
+            <Speletajs Nr="49"/>
+        </Pamatsastavs>
+        <Varti>
+            <VG Laiks="99:06" Nr="21" Sitiens="J"></VG>
+        </Varti>
+    </Komanda>
+    <Komanda Nosaukums="ABC">
+        <Speletaji>
+            <Speletajs Nr="1" Vards="Maksim" Uzvards="Selivonchik" Loma="V"/>
+            <Speletajs Nr="2" Vards="Aleksej" Uzvards="Vasiljev" Loma="V"/>
+            <Speletajs Nr="3" Vards="Vadim" Uzvards="Naumec" Loma="U"/>
+            <Speletajs Nr="4" Vards="Igor" Uzvards="Melnichuk" Loma="U"/>
+            <Speletajs Nr="5" Vards="Manuel" Uzvards="Nordzhera" Loma="A"/>
+            <Speletajs Nr="6" Vards="Branislav" Uzvards="Ivanovich" Loma="A"/>
+            <Speletajs Nr="7" Vards="Ivan" Uzvards="Nosikov" Loma="U"/>
+            <Speletajs Nr="8" Vards="Vladimir" Uzvards="Afanasjev" Loma="A"/>
+            <Speletajs Nr="9" Vards="Andris" Uzvards="Micitis" Loma="U"/>
+            <Speletajs Nr="10" Vards="Andrej" Uzvards="Lebedev" Loma="A"/>
+            <Speletajs Nr="11" Vards="Vitalij" Uzvards="Parmalis" Loma="A"/>
+            <Speletajs Nr="12" Vards="Maksim" Uzvards="Parmalis" Loma="A"/>
+            <Speletajs Nr="13" Vards="Andrej" Uzvards="Grishaev" Loma="U"/>
+            <Speletajs Nr="14" Vards="Andrej" Uzvards="Miller" Loma="U"/>
+            <Speletajs Nr="15" Vards="Artur" Uzvards="Maksimov" Loma="A"/>
+            <Speletajs Nr="16" Vards="Sergej" Uzvards="Kirienkov" Loma="U"/>
+        </Speletaji>
+        <Pamatsastavs>
+            <Speletajs Nr="1"/>
+            <Speletajs Nr="3"/>
+            <Speletajs Nr="6"/>
+            <Speletajs Nr="7"/>
+            <Speletajs Nr="8"/>
+            <Speletajs Nr="9"/>
+            <Speletajs Nr="10"/>
+            <Speletajs Nr="12"/>
+            <Speletajs Nr="13"/>
+            <Speletajs Nr="14"/>
+            <Speletajs Nr="15"/>
+        </Pamatsastavs>
+        <Mainas>
+            <Maina Laiks="51:22" Nr1="3" Nr2="4"/>
+        </Mainas>
+    </Komanda>
+</Spele>
